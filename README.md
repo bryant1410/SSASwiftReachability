@@ -2,7 +2,7 @@
 
 [![](http://img.shields.io/badge/iOS-8.0%2B-blue.svg)]() [![](http://img.shields.io/badge/Swift-3.0-blue.svg)]()
 
-###Usage
+### Usage
 
 ```swift
     override func viewDidLoad() {
@@ -22,16 +22,16 @@
         }
     }
 ```
-###Installation
+### Installation
 As for now please clone the repository and drag the source folder into your project to use SSASwiftReachability. (Cocoapods & Carthage
 support coming soon)
 
-###Author
+### Author
 
 Sebastian Andersen
 
 Inspired by AFNetworkReachabilityManager
 
-###License
+### License
 
 SSASwiftReachability is available under the MIT license. See the LICENSE file for more info.
